@@ -32,4 +32,4 @@ json_data = {
 res = jsonschema.validate(instance=json_data, schema=schema)
 
 # 5. 查看校验结果
-# print("校验结果：", res)
+#print("校验结果：", res)
